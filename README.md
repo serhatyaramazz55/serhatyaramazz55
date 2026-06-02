@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Serhat Yaramaz 👋
 
-<!--
-**serhatyaramazz55/serhatyaramazz55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education
 
-Here are some ideas to get you started:
+🎓 Kastamonu University  
+Bachelor's Degree in Computer Engineering  
+2022 - Present
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am a Computer Engineering student interested in Machine Learning, Natural Language Processing, Mobile Development and Backend Systems.
+
+## Technologies
+
+### Programming Languages
+- Python
+- C#
+- Java
+- C
+
+### Machine Learning & NLP
+- PyTorch
+- Transformers
+- Scikit-Learn
+- Pandas
+- NumPy
+
+### Mobile Development
+- Flutter
+- Firebase
+
+### Backend
+- Flask
+- REST API
+
+### Database
+- MySQL
+
+## Featured Projects
+
+- Toxic Chat Detection
+- Phishing URL Detection
+- Referee Management Application
+- Personal Finance Management System
+
+## Contact
+
+📧 biesyi.22228@outlook.com
