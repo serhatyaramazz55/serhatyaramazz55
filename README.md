@@ -68,4 +68,4 @@ A personal finance management application for tracking and managing financial da
 
 ## Contact
 
-📧 biesyi.22228@outlook.com
+📧 serhat.yrmz.55@outlook.com
